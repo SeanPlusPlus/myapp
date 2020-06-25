@@ -1,2 +1,5 @@
 console.log('hello world')
 console.log('D')
+console.log('C')
+console.log('B')
+console.log('A')
